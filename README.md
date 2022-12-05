@@ -1,7 +1,7 @@
 # OCR-Confidence-Score
 
 ### Steps To Configure
-1. Install Flask
+1. Install Flask - 
    pip install flask
 2. Change directory in terminal to project folder
 3. In static/upload folder save all images to be extracted
