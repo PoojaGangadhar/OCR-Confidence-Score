@@ -7,7 +7,7 @@
 3. In static/upload folder save all images to be extracted
 4. Run the application using following command
    py app.py
-5. Copy the url from command prompt and search in browser with /upload
+5. Copy the url from command prompt and search in browser with /upload - 
    http://127.0.0.1:5000/upload
 6. Select and Upload the image 
 
